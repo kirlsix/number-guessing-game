@@ -1,6 +1,6 @@
 
 <H1>number-guessing-game</H1>
-<p>Sample solution for the number-guessing-game challenge from <a href="https://roadmap.sh/projects/">https://roadmap.sh/</a>.
+<p>Sample solution for the number-guessing-game challenge from <a href="https://roadmap.sh/projects/number-guessing-game">https://roadmap.sh/</a>.
 
 <H2>How to run</H2>
 <H3>Clone the repository and run the following command:</H3>
